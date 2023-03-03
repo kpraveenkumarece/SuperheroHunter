@@ -1,7 +1,7 @@
 # SuperheroHunter
 This is a web application that allows users to search for their favorite Marvel superheroes and get detailed information about them. The app also allows users to mark their favorite superheroes.
 
-Technologies used
+** Technologies used ** 
 This app is built using the following technologies:
 
 HTML5
